@@ -11,6 +11,8 @@ This project analyzes the preferences of customers for mobile service attributes
 
 ## Detailed Utility Scores
 
+![WebApp snapshot](src/output00.png)
+
 ### Brand Preferences:
 - **AT&T**  (Rescaled Utility: -12.59)
 - **T-Mobile**  (Rescaled Utility: -0.11)
@@ -31,11 +33,15 @@ This project analyzes the preferences of customers for mobile service attributes
 - **$50** (Rescaled Utility: 7.96)
 - **$60** (Rescaled Utility: -51.52)
 
+![WebApp snapshot](src/output0.png)
+
 ## Attribute Importance Scores:
 - **Brand** (Importance Score: 0.15%)
 - **Internet Capacity** (Importance Score: 0.46%)
 - **Service Support** (Importance Score: 0.14%)
 - **Price for a single line** (Importance Score: 0.25%)
+
+
 
 ## Model Fit Metrics
 - **Average RLH**: 0.657
@@ -49,7 +55,9 @@ This project analyzes the preferences of customers for mobile service attributes
 - **Strongest Preference**: Verizon with a rescaled utility of 12.71.
 - **Strongest Preference in Internet Capacity**: 20 GB with a rescaled utility of 92.16.
 
-## Dataset Information
+![WebApp snapshot](src/output.png)
+![WebApp snapshot](src/output1.png)
+
 
 ### Rescaled Utilities
 The rescaled utilities of various options (e.g., brand, internet capacity, service support, and price) are provided for each record ID in the dataset. These values represent the preference score for each attribute at a given level.
